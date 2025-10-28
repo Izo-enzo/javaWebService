@@ -13,4 +13,4 @@ Simple Spring Boot project demonstrating REST and SOAP student services.
 
 
 - License  
-  JU @EagleAgile Team
+  JU@EagleAgile Team
